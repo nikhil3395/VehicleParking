@@ -44,12 +44,16 @@ Parking slots available and occupied with vehicles overlayed clearly on frames.
 
 ### To use or verify follow below steps
 step1:Download the video named easy1.mp4 available in this branch.
+
 step2:Visit the following browser https://vehicleparking3395.streamlit.app/
+
 step3:Upload the downloaded video(easy1.mp4).
+
 step4:Observe the detections and the values on the frame(No of parking slots available and occupied).
+
 step5:Observe the metrics printed in the same browser.
 
 ### DEMO VIDEO LINK FOR TASK 2:
-
+https://drive.google.com/file/d/1IrHSBXkrUUt1muSufw9Rr_JlZmus7PUU/view?usp=drive_link
 
 
