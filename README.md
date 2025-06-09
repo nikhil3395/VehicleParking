@@ -23,4 +23,4 @@ Task1:
 ->And I am printing the average Inference time taken per frame and the Approximate FPS achived.
 
 # DEMO VIDEO FOR TASK 1:
-  
+  https://drive.google.com/file/d/1bD39e1BnbqreZ7D1oKJOTgWhDwMEwDwK/view?usp=drive_link
