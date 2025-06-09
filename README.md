@@ -49,3 +49,7 @@ step3:Upload the downloaded video(easy1.mp4).
 step4:Observe the detections and the values on the frame(No of parking slots available and occupied).
 step5:Observe the metrics printed in the same browser.
 
+### DEMO VIDEO LINK FOR TASK 2:
+
+
+
